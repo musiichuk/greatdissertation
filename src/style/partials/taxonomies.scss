@@ -1,0 +1,160 @@
+h1 {
+  font-size: 35px;
+  font-weight: 400;
+  color: $p4d3;
+}
+
+h2 {
+  font-size: 33px;
+  font-weight: 500;
+  color: $p4d2;
+}
+
+h3 {
+  font-size: 27px;
+  font-weight: 500;
+  color: $p4d3;
+}
+
+h4 {
+  font-size: 22px;
+  font-weight: 500;
+  color: $p4d3;
+}
+
+h5 {
+  font-size: 17px;
+  font-weight: 500;
+  color: $p4d3;
+}
+
+h6 {
+  font-size: 15px;
+  font-weight: 500;
+  color: $p4d3;
+}
+
+p {
+  color: $p4d1;
+}
+
+sub {
+  font-size: 20px;
+  font-weight: 500;
+  color: $p4d1;
+}
+
+li {
+  :before {
+    content: "\f00c";
+    font-size: 14px;
+    color: #0287c3;
+    font-weight: 400;
+    font-family: FontAwesome;
+    padding-right: 20px;
+    line-height: 34px;
+  }
+  :after {
+    font-size: 15px;
+    color: $p4d1;
+  }
+}
+
+.button1{
+  width: 220px;
+  height: 50px;
+  color: $lignh_font;
+  background-color: $p2;
+  border-radius: 3px;
+  border: 1px solid $p2;
+}
+
+.button1:hover{
+  cursor: pointer;
+  width: 220px;
+  height: 50px;
+  color: $lignh_font;
+  background-color: $p2l1;
+  border-radius: 3px;
+  border: 1px solid $p2l1;
+}
+
+.button2{
+  width: 280px;
+  height: 50px;
+  color: $lignh_font;
+  background-color: $p1;
+  border-radius: 3px;
+  border: 1px solid $p1;
+}
+
+.button2:hover{
+  cursor: pointer;
+  width: 280px;
+  height: 50px;
+  color: $lignh_font;
+  background-color: $p1l2;
+  border-radius: 3px;
+  border: 1px solid $p1l2;
+}
+
+.button3{
+  width: 201px;
+  height: 50px;
+  color: $lignh_font;
+  background-color: $p1;
+  border-radius: 3px;
+  border: 1px solid $p1;
+}
+
+.button3:hover{
+  cursor: pointer;
+  width: 201px;
+  height: 50px;
+  color: $lignh_font;
+  background-color: $p1l2;
+  border-radius: 3px;
+  border: 1px solid $p1l2;
+}
+
+.button4{
+  width: 220px;
+  height: 50px;
+  color: $p2;
+  background-color: $bgc_light;
+  border-radius: 3px;
+  border: 1px solid $p2;
+}
+
+.button4:hover{
+  cursor: pointer;
+  width: 220px;
+  height: 50px;
+  color: $lignh_font;
+  background-color: $p2l1;
+  border-radius: 3px;
+  border: 1px solid $p2l1;
+}
+
+.button5{
+  width: 201px;
+  height: 50px;
+  color: $p1;
+  background-color: $bgc_light;
+  border-radius: 3px;
+  border: 1px solid $p1;
+}
+
+.button5:hover{
+  cursor: pointer;
+  width: 201px;
+  height: 50px;
+  color: $lignh_font;
+  background-color: $p1l2;
+  border-radius: 3px;
+  border: 1px solid $p1l2;
+}
+
+.btn1{
+
+}
