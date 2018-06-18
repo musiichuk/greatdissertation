@@ -1,39 +1,31 @@
-$p1: #03a9f4;
-$p1l1: lighten($p1, 10%);
-$p1l2: lighten($p1, 20%);
-$p1l3: lighten($p1, 30%);
+//$p1: #03a9f4;
+//$p1l1: lighten($p1, 10%);
+//$p1l2: lighten($p1, 20%);
+//$p1l3: lighten($p1, 30%);
+//
+//$p1d1: darken($p1, 10%);
+//$p1d2: darken($p1, 20%);
+//$p1d3: darken($p1, 30%);
 
-$p1d1: darken($p1, 10%);
-$p1d2: darken($p1, 20%);
-$p1d3: darken($p1, 30%);
 
-$p2: #f75e2e;
-$p2l1: lighten($p2, 10%);
-$p2l2: lighten($p2, 20%);
-$p2l3: lighten($p2, 30%);
+$font_main: #6b1c1c;
 
-$p2d1: darken($p2, 10%);
-$p2d2: darken($p2, 20%);
-$p2d3: darken($p2, 30%);
+$font_main_hv: #ff7022;
 
-$p3: #ecfa4d;
-$p3l1: lighten($p3, 10%);
-$p3l2: lighten($p3, 20%);
-$p3l3: lighten($p3, 30%);
+$font_side: #294766;
 
-$p3d1: darken($p3, 10%);
-$p3d2: darken($p3, 20%);
-$p3d3: darken($p3, 30%);
+$font_loud: #ff0000;
 
-$p4: #656a70;
-$p4l1: lighten($p4, 10%);
-$p4l2: lighten($p4, 20%);
-$p4l3: lighten($p4, 30%);
+$font_text: #6b798d;
 
-$p4d1: darken($p4, 10%);
-$p4d2: darken($p4, 20%);
-$p4d3: darken($p4, 30%);
+$font_link: #126aad;
 
-$lignh_font: #fff;
+$pt_bg: #ffd800;
 
-$bgc_light: #fff;
+$social: #8e8c8c;
+
+$social_hv: #f49f1d;
+
+$large_btn: #e8e8e6;
+
+$font_list: #768396;
